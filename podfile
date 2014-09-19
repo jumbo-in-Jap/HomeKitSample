@@ -1,0 +1,10 @@
+platform :ios, '7.0'
+pod "AFNetworking"
+pod 'BlocksKit'
+pod 'SVProgressHUD'
+#pod 'CocoaLumberjack'
+#pod 'YLGIFImage'
+#pod 'SWTableViewCell'
+#pod 'JDStatusBarNotification'
+#pod 'SSKeychain'
+#pod 'GoogleAnalytics-iOS-SDK', '3.0.7'
